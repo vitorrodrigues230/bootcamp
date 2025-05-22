@@ -7,7 +7,4 @@
 
 📖Currently, I’m learning Python and I plan to study C++.
 
-🙃If you can give me any tips, I’d really appreciate it. I’m just beginning my studies, and any advice is wonderful.
-
-🖊  My site: file:///C:/Users/PC/Pictures/Untitled-1.html
-
+🙃If you can give me any tips, I’d really appreciate it. I’m just beginning my studies, and any advice is 
